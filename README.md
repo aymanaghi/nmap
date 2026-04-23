@@ -362,3 +362,14 @@ See the full license text at [https://opensource.org/licenses/MIT](https://opens
 ---
 
 <p align="center">Made with ❤️ for university project · Happy scanning! 🔍</p>
+
+
+
+## example 
+## Scan Result
+
+Target host was online.  
+Detected 1 open TCP port: 5678  
+Most scanned ports were closed.
+
+This demonstrates host discovery and basic port enumeration using Nmap.
